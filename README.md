@@ -1,8 +1,8 @@
 ## Custon
 omnia sub controllo sunt
 -----------------------------------------------------------------------------------------------------------------
-* # Custon is a community that builds tools It is a non-payment community but pays on the reward (cash,bitcoin*money) of the work achieved
-* ### We build different tools using our skills         
+* #### Custon is a community that builds tools It is a non-payment community but pays on the reward (cash,bitcoin*money) of the work achieved
+* #### We build different tools using our skills         
 * #### AND WE WORK ON DIFFERENT AREAS TECH  (SOFWARE, WEB DEV, SYSTEM DEVELOPMENT AND TESTING, iNnOVATION NEW TECH)
 
 #people concerned
