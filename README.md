@@ -22,10 +22,6 @@ the application is built to rely on multiple users in one place eg: 10 users cod
 ![Project Image](images/image1.png)
 ![Project Image](images/image2.png)
 ![Project Image](images/image3.png)
-![Project Image](images/image4.png)
-![Project Image](images/image5.png)
-![Project Image](images/image6.png)
-![Project Image](images/image7.png)
 
 
 
@@ -85,7 +81,13 @@ technology that you may find
 * c++
 * c
 * git
-* adobe (AI, Pr, An, XD, PS)
+* Adobe (AI, Pr, An, XD, PS)
 
-* Hosting : Heroku
+* Hosting: Heroku
 
+![Project Image](images/image4.png)
+![Project Image](images/image5.png)
+![Project Image](images/image6.png)
+![Project Image](images/image7.png)
+
+![Project Image](images/image8.png)
