@@ -13,6 +13,7 @@ omnia sub controllo sunt
 * web developers, back-end, front-end
 * Graphic designers and video editing
 ------------------------------------------------------------------------------------------------------------------
+<span style="color: green; font-weigth: bold">Custon web Teaming 1.0.0 </span>
 
 THIS PROJECT CONCERNED THIS 
 
