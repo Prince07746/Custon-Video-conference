@@ -7,9 +7,9 @@ omnia sub controllo sunt
 
 #people concerned
 -------------------------------------
-*javascript,c++, C, Python, Java, Kotlin, Flutter programmers
-*freelancer or employed 
-*ML and AI learners 
+* javascript,c++, C, Python, Java, Kotlin, Flutter programmers
+* freelancer or employed 
+* ML and AI learners 
 * web developers, back-end, front-end
 * Graphic designers and video editing
 ------------------------------------------------------------------------------------------------------------------
@@ -32,61 +32,60 @@ the application is built to rely on multiple users in one place eg: 10 users cod
 technology that you may find
 ------------------------------
 
-Express.js: A fast, unopinionated, minimalist web framework for Node.js.
+* Express.js: A fast, unopinionated, minimalist web framework for Node.js.
 
-Website: Express.js
-Socket.io: Enables real-time, bidirectional, and event-based communication.
+* Website: Express.js
+* Socket.io: Enables real-time, bidirectional, and event-based communication.
 
-Website: Socket.io
-MongoDB or MySQL: Choose a database for storing project and user data.
+* Website: Socket.io
+* MongoDB or MySQL: Choose a database for storing project and user data.
 
-MongoDB: MongoDB
-MySQL: MySQL
-SQLite
-Mongoose (if using MongoDB): An elegant MongoDB object modeling tool.
+* MongoDB: MongoDB
+* MySQL: MySQL
+* SQLite
+* Mongoose (if using MongoDB): An elegant MongoDB object modeling tool.
 
-Website: Mongoose
-Passport.js: For authentication, it supports multiple strategies.
+* Website: Mongoose
+* Passport.js: For authentication, it supports multiple strategies.
 
-Website: Passport.js
-JSON web token: For creating and verifying JSON Web Tokens (JWT).
+* Website: Passport.js
+* JSON web token: For creating and verifying JSON Web Tokens (JWT).
 
-Website: jsonwebtoken
-bcrypt: A library for hashing and salting passwords.
+* Website: jsonwebtoken
+* bcrypt: A library for hashing and salting passwords.
 
-Website: bcrypt
-Express-validator: Middleware for validator.js validation library.
+* Website: bcrypt
+* Express-validator: Middleware for validator.js validation library.
 
-Website: Express-validator
-Multer: For handling file uploads.
+* Website: Express-validator
+* Multer: For handling file uploads.
 
-Website: Multer
-Nodemailer: For sending emails.
+* Website: Multer
+* Nodemailer: For sending emails.
 
-Website: Nodemailer
-WebRTC: For real-time communication, including video and audio.
+* Website: Nodemailer
+* WebRTC: For real-time communication, including video and audio.
 
-Website: WebRTC
-PeerJS: Simplifies WebRTC peer-to-peer data, video, and audio calls.
+* Website: WebRTC
+* PeerJS: Simplifies WebRTC peer-to-peer data, video, and audio calls.
 
-Website: PeerJS
-RabbitMQ or Redis: For handling distributed messaging and tasks.
+* Website: PeerJS
+* RabbitMQ or Redis: For handling distributed messaging and tasks.
 
-RabbitMQ: RabbitMQ
-Redis: Redis
-GraphQL with Apollo Server: For efficient data fetching and manipulation.
+* RabbitMQ: RabbitMQ
+* Redis: Redis
+* GraphQL with Apollo Server: For efficient data fetching and manipulation.
 
-Apollo Server: Apollo Server
-React.js (Front-end): For building the user interface.
+* Apollo Server: Apollo Server
+* React.js (Front-end): For building the user interface.
 
-React.js: React
+* React.js: React
 
-Python 
-c++
-c
-git
-adobe (AI, Pr, An, XD, PS)
+* Python 
+* c++
+* c
+* git
+* adobe (AI, Pr, An, XD, PS)
 
-Hosting :
-Heroku
+* Hosting : Heroku
 
