@@ -4,6 +4,14 @@ omnia sub controllo sunt
 
 web app for project management, team management, and communication with features like GitHub, chat, video calls, audio calls, and group calls, you can use various Node.js packages and libraries.
 
+![Project Image](images/image1.png)
+![Project Image](images/image2.png)
+![Project Image](images/image3.png)
+![Project Image](images/image4.png)
+![Project Image](images/image5.png)
+
+
+
 technology that you may find
 Express.js: A fast, unopinionated, minimalist web framework for Node.js.
 
