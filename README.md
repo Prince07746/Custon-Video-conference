@@ -1,18 +1,29 @@
 # Custon
 omnia sub controllo sunt
+-----------------------------------------------------------------------------------------------------------------
+##Custon is a community that builds tools It is a non-payment community but pays on the reward (cash,bitcoin*money) of the work achieved
+##we build different tools using our skills         
+##AND WE WORK ON DIFFERENT AREAS TECH  (SOFWARE, WEB DEV,SYSTEM DEVELOPMENT AND TESTING, iNnOVATION NEW TECH)
+------------------------------------------------------------------------------------------------------------------
 
+THI PROJECT CONCERNED THIS 
 
 web app for project management, team management, and communication with features like GitHub, chat, video calls, audio calls, and group calls, you can use various Node.js packages and libraries.
+the application is built to rely on multiple users in one place eg: 10 users coding on the same codespace , 6 users discussing business strategy, 8 users sharing files etc.
 
 ![Project Image](images/image1.png)
 ![Project Image](images/image2.png)
 ![Project Image](images/image3.png)
 ![Project Image](images/image4.png)
 ![Project Image](images/image5.png)
+![Project Image](images/image6.png)
+![Project Image](images/image7.png)
 
 
 
 technology that you may find
+------------------------------
+
 Express.js: A fast, unopinionated, minimalist web framework for Node.js.
 
 Website: Express.js
@@ -23,13 +34,14 @@ MongoDB or MySQL: Choose a database for storing project and user data.
 
 MongoDB: MongoDB
 MySQL: MySQL
+SQLite
 Mongoose (if using MongoDB): An elegant MongoDB object modeling tool.
 
 Website: Mongoose
-Passport.js: For authentication, supports multiple strategies.
+Passport.js: For authentication, it supports multiple strategies.
 
 Website: Passport.js
-jsonwebtoken: For creating and verifying JSON Web Tokens (JWT).
+JSON web token: For creating and verifying JSON Web Tokens (JWT).
 
 Website: jsonwebtoken
 bcrypt: A library for hashing and salting passwords.
@@ -60,3 +72,13 @@ Apollo Server: Apollo Server
 React.js (Front-end): For building the user interface.
 
 React.js: React
+
+Python 
+c++
+c
+git
+adobe (AI, Pr, An, XD, PS)
+
+Hosting :
+Heroku
+
