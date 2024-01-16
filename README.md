@@ -3,13 +3,21 @@ omnia sub controllo sunt
 -----------------------------------------------------------------------------------------------------------------
 ##Custon is a community that builds tools It is a non-payment community but pays on the reward (cash,bitcoin*money) of the work achieved
 ##we build different tools using our skills         
-##AND WE WORK ON DIFFERENT AREAS TECH  (SOFWARE, WEB DEV,SYSTEM DEVELOPMENT AND TESTING, iNnOVATION NEW TECH)
+##AND WE WORK ON DIFFERENT AREAS TECH  (SOFWARE, WEB DEV, SYSTEM DEVELOPMENT AND TESTING, iNnOVATION NEW TECH)
+
+#people concerned
+-------------------------------------
+*javascript,c++, C, Python, Java, Kotlin, Flutter programmers
+*freelancer or employed 
+*ML and AI learners 
+* web developers, back-end, front-end
+* Graphic designers and video editing
 ------------------------------------------------------------------------------------------------------------------
 
-THI PROJECT CONCERNED THIS 
+THIS PROJECT CONCERNED THIS 
 
 web app for project management, team management, and communication with features like GitHub, chat, video calls, audio calls, and group calls, you can use various Node.js packages and libraries.
-the application is built to rely on multiple users in one place eg: 10 users coding on the same codespace , 6 users discussing business strategy, 8 users sharing files etc.
+the application is built to rely on multiple users in one place eg: 10 users coding on the same codespace, 6 users discussing business strategy, 8 users sharing files, etc.
 
 ![Project Image](images/image1.png)
 ![Project Image](images/image2.png)
